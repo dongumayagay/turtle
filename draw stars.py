@@ -8,7 +8,7 @@ length = 60
 
 #pen setup
 pen = turtle.Turtle()
-pen.speed('fastest')
+pen.speed(0)
 pen.hideturtle()
 pen.width(5)
 
